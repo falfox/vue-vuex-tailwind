@@ -1,5 +1,7 @@
 # vue-vuex-template
 
+This is a Vue CLI template with TailwindCSS and Vuex configured, Vuex uses namespacing and automatically import modules in "src/store/modules" folder. This application includes simple counter app using Vuex store.
+
 ## Project setup
 ```
 npm install
@@ -13,11 +15,6 @@ npm run serve
 ### Compiles and minifies for production
 ```
 npm run build
-```
-
-### Run your tests
-```
-npm run test
 ```
 
 ### Lints and fixes files
